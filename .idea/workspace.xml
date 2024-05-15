@@ -4,16 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3c5db67-84aa-48a9-9a55-6ef3b557c355" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FruitNinja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FruitNinjaView.java" afterDir="false" />
+    <list default="true" id="c3c5db67-84aa-48a9-9a55-6ef3b557c355" name="Changes" comment="Made the window">
+      <change afterPath="$PROJECT_DIR$/Resources/apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/background.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/pineapple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/pomegranate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/watermelon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Final Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FruitNinja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FruitNinja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FruitNinjaView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FruitNinjaView.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,16 +42,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FruitNinja.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "/Users/yasinabdulkariem/Desktop/CS2/Final Project/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FruitNinja.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/yasinabdulkariem/Desktop/CS2/Final Project/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Resources" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="FruitNinja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FruitNinja" />
@@ -72,6 +83,19 @@
       <option name="presentableId" value="Default" />
       <updated>1713804842884</updated>
     </task>
+    <task id="LOCAL-00001" summary="Made the window">
+      <option name="closed" value="true" />
+      <created>1714416710555</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714416710557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Made the window" />
+    <option name="LAST_COMMIT_MESSAGE" value="Made the window" />
   </component>
 </project>
